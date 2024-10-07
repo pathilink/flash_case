@@ -23,8 +23,8 @@ Construct and report operational metrics on a quarterly basis.
 
 | **Card model** | **Percentual** |
 |:-|:-:|
-| CONTACTLESS | 83% |
-| PIN | 17% |
+| CONTACTLESS | 80% |
+| PIN | 20% |
 
 ### Strategies to increase the contactless card rate by the end of Q4-2023
 
@@ -32,7 +32,7 @@ Construct and report operational metrics on a quarterly basis.
 
 🎯 Almost 100% of PIN cards will expire by the end of Q4-2023. It will be possible to eliminate PIN cards by not issuing new cards in this model and encouraging the switch to CONTACTLESS.
 
-<ADD GRAPH>
+![transition pin to contactless](img/pin_to_contactless.png)
 
 ### How to improve card activation and use
 
@@ -40,7 +40,7 @@ Construct and report operational metrics on a quarterly basis.
 
 🎯 To combat abandonment, we can talk to customers to understand what success means to them and whether they are achieving this with the product. CSAT and NPS surveys can help in this process.
 
-<ADD GRAPH>
+![total abandoned cards](img/abandoned_card.png)
 
 ### ‘Temporarily blocked’: direct impacts on the operation and recommendations for dealing with this situation
 
@@ -51,6 +51,10 @@ My recommendations would be:
 * Identify the reasons for the blocking;
 * Review the reactivation process to see if there are any blockages;
 * Carry out qualitative research with users;
+
+In the graph below you can see the projection of transactions considering temporarily blocked cards, as if they weren't blocked, and the total number of open card transactions.
+
+![cards projection](img/projection.png)
 
 ### Dealing with a large number of cards expiring in the next quarter
 
@@ -94,3 +98,6 @@ The analysis was carried out using the following steps:
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-750014.svg)](https://opensource.org/licenses/MIT)
+
+
+
