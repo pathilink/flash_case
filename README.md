@@ -10,7 +10,7 @@ Construct and report operational metrics on a quarterly basis.
 
 ### Card accounting in each quarter
 
-|  | 1º TRI/2023 |  |  | 2º TRI/2023 |  |  | 3º TRI/2023 |  |  |
+|  |  | 1º TRI/2023 |  |  | 2º TRI/2023 |  |  | 3º TRI/2023 |  |
 |--|:-----------:|:-:|:-:|:-------:|:-:|:-:|:-----:|:-:|:-:|
 |**A. Card**| **Total** | **Open** | **Temporarily Blocked** | **Total** | **Open** | **Temporarily Blocked** | **Total** | **Open** | **Temporarily Blocked** |
 | **1. Cards at Beginning of Quarter** | 126807 | 126171 | 636 | 159164 | 155169 | 3995 | 200428 | 196074 | 4354 |
