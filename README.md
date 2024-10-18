@@ -10,14 +10,7 @@ Construct and report operational metrics on a quarterly basis.
 
 ### Card accounting in each quarter
 
-|  |  | 1º TRI/2023 |  |  | 2º TRI/2023 |  |  | 3º TRI/2023 |  |
-|--|:-----------:|:-:|:-:|:-------:|:-:|:-:|:-----:|:-:|:-:|
-|**A. Card**| **Total** | **Open** | **Temporarily Blocked** | **Total** | **Open** | **Temporarily Blocked** | **Total** | **Open** | **Temporarily Blocked** |
-| **1. Cards at Beginning of Quarter** | 160915 | 160523 | 2153 | 205315 | 201691 | 17178 | 260079 | 253041 | 32380 |
-| **2. New Cards Obtained During Quarter** | 44400 | - | - | 54764 | - | - | 62649 | - | - |
-| **3. Cards Terminated During Quarter**  | 4686 | - | - | 8687 | - | - | 11061 | - | - |
-| **4. Cards at End of Quarter** | 205315 | 201691 | 17178 | 260079 | 253041 | 32380 | 322728 | 311865 | 51033 |
-| **5. Cards w/ at Least One Transaction during Quarter** | 128113 | - | - | 155331 | - | - | 174052 | - | - |
+![table](img/table.png)
 
 ### Percentage of contactless cards out of the total number of cards at the end of Q3-2023
 
